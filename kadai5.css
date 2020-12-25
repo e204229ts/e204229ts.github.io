@@ -1,0 +1,54 @@
+div.title{
+    width:1000px;
+    height: 40px;
+    background-color: brown
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
+div.menu{
+    width: 1000px;
+    height: 320px;
+    background-color: blue;
+    font-size: 0;
+   
+}
+
+div.futter{
+    width: 1000px;
+    height: 40px;
+    background-color: yellow;
+    margin-top: 20px;
+    text-align: right;
+}
+
+div.menus{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 20px;
+}
+
+div.menu1{
+    width: 250px;
+    height: 100px;
+    background-color: orange;
+    margin: 0px 50px 10px 0px;
+}
+
+div.gazous{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 12px;
+}
+
+div.gazou{
+    width: 700px;
+    height: 300px;
+    background-color: greenyellow;
+}
+
+div.bunsho{
+    width: 700px;
+    height: 20px;
+    background-color: gold;
+}
