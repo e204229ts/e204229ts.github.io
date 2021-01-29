@@ -1,0 +1,26 @@
+h1.whitecolor{
+    color:aliceblue;
+    background-color: brown
+}
+
+h1{
+    background-color: darkslateblue
+    text-align: center
+}
+
+h2{
+    text-align: center
+}
+
+h2.greencolor{
+    color:red
+}
+
+h2.redcolor{
+    color:royalblue
+}
+
+
+body{
+    background-image: url(../images/wood-texture_00089.jpg)
+}

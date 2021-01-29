@@ -1,0 +1,21 @@
+div.title{
+    width: 1000px;
+    height: 100px;
+    background-color: aquamarine;
+    font-size: 50px;
+    fount-family:"Inpact";
+    margin-bottom: 20px;
+    padding: 10px 0px 0px 20px;
+}
+
+
+span.menuitem{
+    display: inline-block;
+    vertical-align: top;
+    width: 190px;
+    height: 40px;
+    background-color: orchid;
+    font-size: 30px;
+    fount-family:"Inpact";
+    border: 5px dotted blue;
+}
